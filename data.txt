@@ -1,0 +1,10 @@
+1 	i7 6700k 	Computer Hardware / CPU 	300 	3065
+2 	Corsair h100i 	Computer Hardware / CPU Cooler 	120 	1207
+3 	ASUS Maximus IX 	Cpmputer Hardware / Motherboard 	220 	2205
+4 	G.Skill Trident Z 	Computer Hardware / RAM 	140 	1000
+5 	Samsung EVO SSD 	Computer Hardware / Storage 	80 	4000
+6 	ASUS GeForce 1080 ti 	Computer Hardware / GPU 	1000 	2000
+7 	EVGA 750w 	Computer Hardware / PSU 	100 	1200
+8 	Thermaltake P5 	Computer Hardware / Case 	200 	3200
+9 	ASUS 144hz 	Computer Accessories / Monitor 	300 	3100
+10 	ASTRO a40 	Computer Peripherals / Headset 	300 	3600
